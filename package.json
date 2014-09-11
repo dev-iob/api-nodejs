@@ -1,0 +1,9 @@
+{
+  "name": "Dev",
+  "email": "dev@iobconcursos.com.br",
+  "url": "http://iobconcursos.com/",
+  "dependencies": {
+    "request": "~2.36.0",
+    "xml2js": "~0.4.4"
+  }
+}
